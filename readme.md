@@ -16,3 +16,7 @@ Documentation for the framework can be found on the [Lumen website](https://lume
 ## License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## About Project
+
+Project created to study and establish a connection with RabbitMq.
